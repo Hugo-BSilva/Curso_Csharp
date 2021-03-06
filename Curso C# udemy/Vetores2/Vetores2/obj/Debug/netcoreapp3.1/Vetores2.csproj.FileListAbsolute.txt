@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\bin\Debug\netcoreapp3.1\Vetores2.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores2\Vetores2\obj\Debug\netcoreapp3.1\Vetores2.genruntimeconfig.cache

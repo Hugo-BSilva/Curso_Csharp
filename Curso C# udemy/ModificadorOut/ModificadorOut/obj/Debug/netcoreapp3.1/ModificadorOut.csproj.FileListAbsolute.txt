@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\bin\Debug\netcoreapp3.1\Datetimekind.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\bin\Debug\netcoreapp3.1\Datetimekind.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\bin\Debug\netcoreapp3.1\Datetimekind.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\bin\Debug\netcoreapp3.1\Datetimekind.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\bin\Debug\netcoreapp3.1\Datetimekind.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\bin\Debug\netcoreapp3.1\Datetimekind.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\obj\Debug\netcoreapp3.1\Datetimekind.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\obj\Debug\netcoreapp3.1\Datetimekind.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\obj\Debug\netcoreapp3.1\Datetimekind.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\obj\Debug\netcoreapp3.1\Datetimekind.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\obj\Debug\netcoreapp3.1\Datetimekind.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\obj\Debug\netcoreapp3.1\Datetimekind.genruntimeconfig.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetimekind\Datetimekind\obj\Debug\netcoreapp3.1\Datetimekind.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\obj\Debug\netcoreapp3.1\ExercicioMatrizesFixação.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\obj\Debug\netcoreapp3.1\ExercicioMatrizesFixação.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\obj\Debug\netcoreapp3.1\ExercicioMatrizesFixação.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\obj\Debug\netcoreapp3.1\ExercicioMatrizesFixação.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\bin\Debug\netcoreapp3.1\ExercicioMatrizesFixação.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\bin\Debug\netcoreapp3.1\ExercicioMatrizesFixação.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\bin\Debug\netcoreapp3.1\ExercicioMatrizesFixação.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\bin\Debug\netcoreapp3.1\ExercicioMatrizesFixação.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\bin\Debug\netcoreapp3.1\ExercicioMatrizesFixação.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\bin\Debug\netcoreapp3.1\ExercicioMatrizesFixação.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\obj\Debug\netcoreapp3.1\ExercicioMatrizesFixação.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\obj\Debug\netcoreapp3.1\ExercicioMatrizesFixação.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioMatrizesFixação\ExercicioMatrizesFixação\obj\Debug\netcoreapp3.1\ExercicioMatrizesFixação.genruntimeconfig.cache

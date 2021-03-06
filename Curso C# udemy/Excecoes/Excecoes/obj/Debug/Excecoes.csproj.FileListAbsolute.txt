@@ -1,0 +1,7 @@
+C:\Users\hugob\source\repos\Excecoes\Excecoes\bin\Debug\Excecoes.exe.config
+C:\Users\hugob\source\repos\Excecoes\Excecoes\bin\Debug\Excecoes.exe
+C:\Users\hugob\source\repos\Excecoes\Excecoes\bin\Debug\Excecoes.pdb
+C:\Users\hugob\source\repos\Excecoes\Excecoes\obj\Debug\Excecoes.csprojAssemblyReference.cache
+C:\Users\hugob\source\repos\Excecoes\Excecoes\obj\Debug\Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\hugob\source\repos\Excecoes\Excecoes\obj\Debug\Excecoes.exe
+C:\Users\hugob\source\repos\Excecoes\Excecoes\obj\Debug\Excecoes.pdb

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\bin\Debug\netcoreapp3.1\Pimeiro.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\bin\Debug\netcoreapp3.1\Pimeiro.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\bin\Debug\netcoreapp3.1\Pimeiro.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\bin\Debug\netcoreapp3.1\Pimeiro.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\bin\Debug\netcoreapp3.1\Pimeiro.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\bin\Debug\netcoreapp3.1\Pimeiro.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\obj\Debug\netcoreapp3.1\Pimeiro.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\obj\Debug\netcoreapp3.1\Pimeiro.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\obj\Debug\netcoreapp3.1\Pimeiro.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\obj\Debug\netcoreapp3.1\Pimeiro.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\obj\Debug\netcoreapp3.1\Pimeiro.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\obj\Debug\netcoreapp3.1\Pimeiro.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Pimeiro\Pimeiro\obj\Debug\netcoreapp3.1\Pimeiro.genruntimeconfig.cache

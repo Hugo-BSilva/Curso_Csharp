@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\bin\Debug\netcoreapp3.1\Exercicio 01 - POO.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\bin\Debug\netcoreapp3.1\Exercicio 01 - POO.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\bin\Debug\netcoreapp3.1\Exercicio 01 - POO.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\bin\Debug\netcoreapp3.1\Exercicio 01 - POO.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\bin\Debug\netcoreapp3.1\Exercicio 01 - POO.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\bin\Debug\netcoreapp3.1\Exercicio 01 - POO.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\obj\Debug\netcoreapp3.1\Exercicio 01 - POO.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\obj\Debug\netcoreapp3.1\Exercicio 01 - POO.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\obj\Debug\netcoreapp3.1\Exercicio 01 - POO.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\obj\Debug\netcoreapp3.1\Exercicio 01 - POO.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\obj\Debug\netcoreapp3.1\Exercicio 01 - POO.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\obj\Debug\netcoreapp3.1\Exercicio 01 - POO.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio 01 - POO\Exercicio 01 - POO\obj\Debug\netcoreapp3.1\Exercicio 01 - POO.genruntimeconfig.cache

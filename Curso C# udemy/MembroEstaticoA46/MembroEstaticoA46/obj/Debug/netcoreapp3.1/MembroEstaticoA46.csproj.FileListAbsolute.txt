@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache

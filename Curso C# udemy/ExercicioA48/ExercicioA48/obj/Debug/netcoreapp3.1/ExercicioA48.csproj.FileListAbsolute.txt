@@ -1,0 +1,12 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\bin\Debug\netcoreapp3.1\ExercicioA48.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\bin\Debug\netcoreapp3.1\ExercicioA48.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\bin\Debug\netcoreapp3.1\ExercicioA48.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\bin\Debug\netcoreapp3.1\ExercicioA48.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\bin\Debug\netcoreapp3.1\ExercicioA48.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\bin\Debug\netcoreapp3.1\ExercicioA48.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\obj\Debug\netcoreapp3.1\ExercicioA48.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\obj\Debug\netcoreapp3.1\ExercicioA48.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\obj\Debug\netcoreapp3.1\ExercicioA48.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\obj\Debug\netcoreapp3.1\ExercicioA48.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\obj\Debug\netcoreapp3.1\ExercicioA48.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioA48\ExercicioA48\obj\Debug\netcoreapp3.1\ExercicioA48.genruntimeconfig.cache

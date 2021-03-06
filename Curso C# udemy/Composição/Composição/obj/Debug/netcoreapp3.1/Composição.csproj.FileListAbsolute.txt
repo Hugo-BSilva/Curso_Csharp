@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\bin\Debug\netcoreapp3.1\Composição.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\bin\Debug\netcoreapp3.1\Composição.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\bin\Debug\netcoreapp3.1\Composição.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\bin\Debug\netcoreapp3.1\Composição.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\bin\Debug\netcoreapp3.1\Composição.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\bin\Debug\netcoreapp3.1\Composição.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\obj\Debug\netcoreapp3.1\Composição.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\obj\Debug\netcoreapp3.1\Composição.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\obj\Debug\netcoreapp3.1\Composição.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\obj\Debug\netcoreapp3.1\Composição.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\obj\Debug\netcoreapp3.1\Composição.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\obj\Debug\netcoreapp3.1\Composição.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Composição\Composição\obj\Debug\netcoreapp3.1\Composição.genruntimeconfig.cache

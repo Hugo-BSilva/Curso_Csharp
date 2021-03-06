@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\bin\Debug\netcoreapp3.1\Exercicio2A45.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\bin\Debug\netcoreapp3.1\Exercicio2A45.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\bin\Debug\netcoreapp3.1\Exercicio2A45.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\bin\Debug\netcoreapp3.1\Exercicio2A45.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\bin\Debug\netcoreapp3.1\Exercicio2A45.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\bin\Debug\netcoreapp3.1\Exercicio2A45.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\obj\Debug\netcoreapp3.1\Exercicio2A45.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\obj\Debug\netcoreapp3.1\Exercicio2A45.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\obj\Debug\netcoreapp3.1\Exercicio2A45.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\obj\Debug\netcoreapp3.1\Exercicio2A45.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\obj\Debug\netcoreapp3.1\Exercicio2A45.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\obj\Debug\netcoreapp3.1\Exercicio2A45.genruntimeconfig.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Exercicio2A45\Exercicio2A45\obj\Debug\netcoreapp3.1\Exercicio2A45.csprojAssemblyReference.cache

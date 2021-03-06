@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\bin\Debug\netcoreapp3.1\ModificadorRef.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\bin\Debug\netcoreapp3.1\ModificadorRef.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\bin\Debug\netcoreapp3.1\ModificadorRef.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\bin\Debug\netcoreapp3.1\ModificadorRef.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\bin\Debug\netcoreapp3.1\ModificadorRef.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\bin\Debug\netcoreapp3.1\ModificadorRef.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\obj\Debug\netcoreapp3.1\ModificadorRef.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\obj\Debug\netcoreapp3.1\ModificadorRef.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\obj\Debug\netcoreapp3.1\ModificadorRef.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\obj\Debug\netcoreapp3.1\ModificadorRef.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\obj\Debug\netcoreapp3.1\ModificadorRef.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\obj\Debug\netcoreapp3.1\ModificadorRef.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorRef\ModificadorRef\obj\Debug\netcoreapp3.1\ModificadorRef.genruntimeconfig.cache

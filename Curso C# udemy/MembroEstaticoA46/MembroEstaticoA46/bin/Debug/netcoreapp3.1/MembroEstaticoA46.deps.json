@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MembroEstaticoA46/1.0.0": {
+        "runtime": {
+          "MembroEstaticoA46.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MembroEstaticoA46/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

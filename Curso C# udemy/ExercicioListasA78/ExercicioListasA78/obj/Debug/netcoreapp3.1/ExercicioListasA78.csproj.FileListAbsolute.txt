@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\bin\Debug\netcoreapp3.1\ExercicioListasA78.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\bin\Debug\netcoreapp3.1\ExercicioListasA78.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\bin\Debug\netcoreapp3.1\ExercicioListasA78.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\bin\Debug\netcoreapp3.1\ExercicioListasA78.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\bin\Debug\netcoreapp3.1\ExercicioListasA78.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\bin\Debug\netcoreapp3.1\ExercicioListasA78.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\obj\Debug\netcoreapp3.1\ExercicioListasA78.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\obj\Debug\netcoreapp3.1\ExercicioListasA78.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\obj\Debug\netcoreapp3.1\ExercicioListasA78.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\obj\Debug\netcoreapp3.1\ExercicioListasA78.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\obj\Debug\netcoreapp3.1\ExercicioListasA78.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\obj\Debug\netcoreapp3.1\ExercicioListasA78.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExercicioListasA78\ExercicioListasA78\obj\Debug\netcoreapp3.1\ExercicioListasA78.genruntimeconfig.cache

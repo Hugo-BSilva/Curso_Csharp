@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\bin\Debug\netcoreapp3.1\Timespan.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\bin\Debug\netcoreapp3.1\Timespan.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\bin\Debug\netcoreapp3.1\Timespan.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\bin\Debug\netcoreapp3.1\Timespan.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\bin\Debug\netcoreapp3.1\Timespan.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\bin\Debug\netcoreapp3.1\Timespan.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\obj\Debug\netcoreapp3.1\Timespan.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\obj\Debug\netcoreapp3.1\Timespan.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\obj\Debug\netcoreapp3.1\Timespan.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\obj\Debug\netcoreapp3.1\Timespan.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\obj\Debug\netcoreapp3.1\Timespan.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\obj\Debug\netcoreapp3.1\Timespan.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Timespan\Timespan\obj\Debug\netcoreapp3.1\Timespan.genruntimeconfig.cache

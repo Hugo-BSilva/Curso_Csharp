@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\CondicaoTernaria\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\bin\Debug\netcoreapp3.1\Params.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\bin\Debug\netcoreapp3.1\Params.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\bin\Debug\netcoreapp3.1\Params.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\bin\Debug\netcoreapp3.1\Params.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\obj\Debug\netcoreapp3.1\Params.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\obj\Debug\netcoreapp3.1\Params.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\obj\Debug\netcoreapp3.1\Params.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\obj\Debug\netcoreapp3.1\Params.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Params\Params\obj\Debug\netcoreapp3.1\Params.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\bin\Debug\netcoreapp3.1\ExBanco_A60.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\bin\Debug\netcoreapp3.1\ExBanco_A60.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\bin\Debug\netcoreapp3.1\ExBanco_A60.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\bin\Debug\netcoreapp3.1\ExBanco_A60.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\bin\Debug\netcoreapp3.1\ExBanco_A60.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\bin\Debug\netcoreapp3.1\ExBanco_A60.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\obj\Debug\netcoreapp3.1\ExBanco_A60.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\obj\Debug\netcoreapp3.1\ExBanco_A60.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\obj\Debug\netcoreapp3.1\ExBanco_A60.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\obj\Debug\netcoreapp3.1\ExBanco_A60.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\obj\Debug\netcoreapp3.1\ExBanco_A60.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\obj\Debug\netcoreapp3.1\ExBanco_A60.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ExBanco_A60\ExBanco_A60\obj\Debug\netcoreapp3.1\ExBanco_A60.genruntimeconfig.cache

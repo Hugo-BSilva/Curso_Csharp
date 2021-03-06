@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\bin\Debug\netcoreapp3.1\PropDateTime.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropDateTime\PropDateTime\obj\Debug\netcoreapp3.1\PropDateTime.genruntimeconfig.cache

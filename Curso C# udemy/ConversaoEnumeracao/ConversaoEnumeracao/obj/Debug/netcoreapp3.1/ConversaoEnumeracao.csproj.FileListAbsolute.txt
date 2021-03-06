@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\bin\Debug\netcoreapp3.1\ConversaoEnumeracao.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\bin\Debug\netcoreapp3.1\ConversaoEnumeracao.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\bin\Debug\netcoreapp3.1\ConversaoEnumeracao.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\bin\Debug\netcoreapp3.1\ConversaoEnumeracao.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\bin\Debug\netcoreapp3.1\ConversaoEnumeracao.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\bin\Debug\netcoreapp3.1\ConversaoEnumeracao.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\obj\Debug\netcoreapp3.1\ConversaoEnumeracao.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\obj\Debug\netcoreapp3.1\ConversaoEnumeracao.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\obj\Debug\netcoreapp3.1\ConversaoEnumeracao.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\obj\Debug\netcoreapp3.1\ConversaoEnumeracao.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\obj\Debug\netcoreapp3.1\ConversaoEnumeracao.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\obj\Debug\netcoreapp3.1\ConversaoEnumeracao.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\ConversaoEnumeracao\ConversaoEnumeracao\obj\Debug\netcoreapp3.1\ConversaoEnumeracao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\bin\Debug\netcoreapp3.1\SegundoProblema42.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\bin\Debug\netcoreapp3.1\SegundoProblema42.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\bin\Debug\netcoreapp3.1\SegundoProblema42.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\bin\Debug\netcoreapp3.1\SegundoProblema42.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\bin\Debug\netcoreapp3.1\SegundoProblema42.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\bin\Debug\netcoreapp3.1\SegundoProblema42.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\obj\Debug\netcoreapp3.1\SegundoProblema42.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\obj\Debug\netcoreapp3.1\SegundoProblema42.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\obj\Debug\netcoreapp3.1\SegundoProblema42.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\obj\Debug\netcoreapp3.1\SegundoProblema42.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\obj\Debug\netcoreapp3.1\SegundoProblema42.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\obj\Debug\netcoreapp3.1\SegundoProblema42.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\SegundoProblema42\SegundoProblema42\obj\Debug\netcoreapp3.1\SegundoProblema42.genruntimeconfig.cache

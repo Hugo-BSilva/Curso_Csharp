@@ -1,0 +1,7 @@
+C:\Users\hugob\source\repos\ClasseObject\ClasseObject\bin\Debug\ClasseObject.exe.config
+C:\Users\hugob\source\repos\ClasseObject\ClasseObject\bin\Debug\ClasseObject.exe
+C:\Users\hugob\source\repos\ClasseObject\ClasseObject\bin\Debug\ClasseObject.pdb
+C:\Users\hugob\source\repos\ClasseObject\ClasseObject\obj\Debug\ClasseObject.csprojAssemblyReference.cache
+C:\Users\hugob\source\repos\ClasseObject\ClasseObject\obj\Debug\ClasseObject.csproj.CoreCompileInputs.cache
+C:\Users\hugob\source\repos\ClasseObject\ClasseObject\obj\Debug\ClasseObject.exe
+C:\Users\hugob\source\repos\ClasseObject\ClasseObject\obj\Debug\ClasseObject.pdb

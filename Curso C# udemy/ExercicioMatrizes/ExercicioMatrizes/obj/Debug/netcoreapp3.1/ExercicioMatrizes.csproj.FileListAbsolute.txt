@@ -1,0 +1,13 @@
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.exe
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.deps.json
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.runtimeconfig.json
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.runtimeconfig.dev.json
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.dll
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.pdb
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.csprojAssemblyReference.cache
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.dll
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.pdb
+C:\Users\hugob\source\repos\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.genruntimeconfig.cache

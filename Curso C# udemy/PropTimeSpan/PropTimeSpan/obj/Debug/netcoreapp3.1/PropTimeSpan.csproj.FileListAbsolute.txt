@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\bin\Debug\netcoreapp3.1\PropTimeSpan.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\PropTimeSpan\PropTimeSpan\obj\Debug\netcoreapp3.1\PropTimeSpan.genruntimeconfig.cache

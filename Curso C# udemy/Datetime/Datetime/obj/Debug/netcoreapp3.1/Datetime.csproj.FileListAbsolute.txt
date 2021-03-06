@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\bin\Debug\netcoreapp3.1\Datetime.exe
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\bin\Debug\netcoreapp3.1\Datetime.deps.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\bin\Debug\netcoreapp3.1\Datetime.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\bin\Debug\netcoreapp3.1\Datetime.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\bin\Debug\netcoreapp3.1\Datetime.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\bin\Debug\netcoreapp3.1\Datetime.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\obj\Debug\netcoreapp3.1\Datetime.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\obj\Debug\netcoreapp3.1\Datetime.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\obj\Debug\netcoreapp3.1\Datetime.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\obj\Debug\netcoreapp3.1\Datetime.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\obj\Debug\netcoreapp3.1\Datetime.dll
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\obj\Debug\netcoreapp3.1\Datetime.pdb
+C:\Users\hugob\Documents\Projetos\Curso C# udemy\Datetime\Datetime\obj\Debug\netcoreapp3.1\Datetime.genruntimeconfig.cache
