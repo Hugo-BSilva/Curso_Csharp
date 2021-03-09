@@ -1,0 +1,7 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPedidosA123\ExPedidosA123\bin\Debug\ExPedidosA123.exe.config
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPedidosA123\ExPedidosA123\bin\Debug\ExPedidosA123.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPedidosA123\ExPedidosA123\bin\Debug\ExPedidosA123.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPedidosA123\ExPedidosA123\obj\Debug\ExPedidosA123.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPedidosA123\ExPedidosA123\obj\Debug\ExPedidosA123.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPedidosA123\ExPedidosA123\obj\Debug\ExPedidosA123.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPedidosA123\ExPedidosA123\obj\Debug\ExPedidosA123.pdb
