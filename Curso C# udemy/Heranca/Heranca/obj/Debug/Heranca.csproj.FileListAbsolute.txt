@@ -1,0 +1,7 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\Heranca\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\Heranca\Heranca\obj\Debug\Heranca.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\Heranca\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\Heranca\Heranca\obj\Debug\Heranca.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\Heranca\Heranca\obj\Debug\Heranca.pdb

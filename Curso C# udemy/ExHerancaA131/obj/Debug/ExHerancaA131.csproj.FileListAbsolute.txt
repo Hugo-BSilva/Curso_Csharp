@@ -1,0 +1,7 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExHerancaA131\bin\Debug\ExHerancaA131.exe.config
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExHerancaA131\bin\Debug\ExHerancaA131.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExHerancaA131\bin\Debug\ExHerancaA131.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExHerancaA131\obj\Debug\ExHerancaA131.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExHerancaA131\obj\Debug\ExHerancaA131.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExHerancaA131\obj\Debug\ExHerancaA131.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExHerancaA131\obj\Debug\ExHerancaA131.pdb
