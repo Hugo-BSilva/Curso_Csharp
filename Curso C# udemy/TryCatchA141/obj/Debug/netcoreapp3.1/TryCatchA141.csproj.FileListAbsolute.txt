@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\bin\Debug\netcoreapp3.1\TryCatchA141.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\bin\Debug\netcoreapp3.1\TryCatchA141.deps.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\bin\Debug\netcoreapp3.1\TryCatchA141.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\bin\Debug\netcoreapp3.1\TryCatchA141.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\bin\Debug\netcoreapp3.1\TryCatchA141.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\bin\Debug\netcoreapp3.1\TryCatchA141.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\obj\Debug\netcoreapp3.1\TryCatchA141.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\obj\Debug\netcoreapp3.1\TryCatchA141.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\obj\Debug\netcoreapp3.1\TryCatchA141.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\obj\Debug\netcoreapp3.1\TryCatchA141.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\obj\Debug\netcoreapp3.1\TryCatchA141.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\obj\Debug\netcoreapp3.1\TryCatchA141.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\TryCatchA141\obj\Debug\netcoreapp3.1\TryCatchA141.genruntimeconfig.cache

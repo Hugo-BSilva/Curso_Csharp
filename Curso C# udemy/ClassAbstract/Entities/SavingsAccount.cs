@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Heranca.Entities
+namespace ClassAbstract.Entities
 {
     //Conta poupança
     //Sealed torna a classe selada, dessa forma não vai ser possível outra classe herdar ela
@@ -16,7 +12,7 @@ namespace Heranca.Entities
         {
         }
 
-        public SavingsAccount(int number, string holder, double balance, double interestRate):base(number,holder,balance)
+        public SavingsAccount(int number, string holder, double balance, double interestRate) : base(number, holder, balance)
         {
             InterestRate = interestRate;
         }

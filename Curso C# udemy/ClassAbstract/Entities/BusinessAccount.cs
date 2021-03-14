@@ -1,4 +1,4 @@
-﻿namespace Heranca.Entities
+﻿namespace ClassAbstract.Entities
 {
     //Conta para empresas vai ter tudo que a Account tem
     class BusinessAccount : Account

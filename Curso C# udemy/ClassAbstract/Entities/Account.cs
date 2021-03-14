@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Heranca.Entities
+namespace ClassAbstract.Entities
 {
-    class Account //Conta
+    abstract class Account //Conta
     {
         //private set (eu só posso acessar eu não posso alterar)
         //protected só pode ser alterado na própria classe ou na subclasse

@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.deps.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.genruntimeconfig.cache

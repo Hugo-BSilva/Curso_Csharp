@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\bin\Debug\netcoreapp3.1\FileStreamA187.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\bin\Debug\netcoreapp3.1\FileStreamA187.deps.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\bin\Debug\netcoreapp3.1\FileStreamA187.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\bin\Debug\netcoreapp3.1\FileStreamA187.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\bin\Debug\netcoreapp3.1\FileStreamA187.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\bin\Debug\netcoreapp3.1\FileStreamA187.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\obj\Debug\netcoreapp3.1\FileStreamA187.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\obj\Debug\netcoreapp3.1\FileStreamA187.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\obj\Debug\netcoreapp3.1\FileStreamA187.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\obj\Debug\netcoreapp3.1\FileStreamA187.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\obj\Debug\netcoreapp3.1\FileStreamA187.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\obj\Debug\netcoreapp3.1\FileStreamA187.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\FileStreamA187\obj\Debug\netcoreapp3.1\FileStreamA187.genruntimeconfig.cache

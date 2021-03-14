@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.deps.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.genruntimeconfig.cache

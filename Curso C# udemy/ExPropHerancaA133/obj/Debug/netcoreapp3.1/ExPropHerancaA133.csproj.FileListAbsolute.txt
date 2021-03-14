@@ -1,0 +1,13 @@
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\bin\Debug\netcoreapp3.1\ExPropHerancaA133.exe
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\bin\Debug\netcoreapp3.1\ExPropHerancaA133.deps.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\bin\Debug\netcoreapp3.1\ExPropHerancaA133.runtimeconfig.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\bin\Debug\netcoreapp3.1\ExPropHerancaA133.runtimeconfig.dev.json
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\bin\Debug\netcoreapp3.1\ExPropHerancaA133.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\bin\Debug\netcoreapp3.1\ExPropHerancaA133.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\obj\Debug\netcoreapp3.1\ExPropHerancaA133.csprojAssemblyReference.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\obj\Debug\netcoreapp3.1\ExPropHerancaA133.AssemblyInfoInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\obj\Debug\netcoreapp3.1\ExPropHerancaA133.AssemblyInfo.cs
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\obj\Debug\netcoreapp3.1\ExPropHerancaA133.csproj.CoreCompileInputs.cache
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\obj\Debug\netcoreapp3.1\ExPropHerancaA133.dll
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\obj\Debug\netcoreapp3.1\ExPropHerancaA133.pdb
+C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\ExPropHerancaA133\obj\Debug\netcoreapp3.1\ExPropHerancaA133.genruntimeconfig.cache
