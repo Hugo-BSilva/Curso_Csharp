@@ -11,3 +11,16 @@ C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\o
 C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.dll
 C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.pdb
 C:\Users\hugob\Documents\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.genruntimeconfig.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.exe
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.deps.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.runtimeconfig.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.runtimeconfig.dev.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\bin\Debug\netcoreapp3.1\BlocoFinallyA142.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.csprojAssemblyReference.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.AssemblyInfoInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.AssemblyInfo.cs
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\BlocoFinallyA142\obj\Debug\netcoreapp3.1\BlocoFinallyA142.genruntimeconfig.cache

@@ -6,6 +6,7 @@ namespace Vetores
     {
         static void Main(string[] args)
         {
+            Console.Write("Digite a quantidade de números do vetor: ");
             int n = int.Parse(Console.ReadLine());
 
             double[] vect = new double[n];

@@ -19,7 +19,8 @@ namespace ExPropHerancaA133.Entities
 
         public override string PriceTag()
         {
-            return Name +" (used) $ " +Price+ " (Manufacture date: "+ ManufactureDate.ToString("dd/MM/yyyy") + ")" ;
+            return Name +" (used) $ " +Price+ 
+            " (Manufacture date: "+ ManufactureDate.ToString("dd/MM/yyyy") + ")" ;
         }
     }
 }

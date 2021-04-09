@@ -11,3 +11,16 @@ C:\Users\hugob\Documents\Projetos\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.dll
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.pdb
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.genruntimeconfig.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\bin\Debug\netcoreapp3.1\AluguelQuarto.exe
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\bin\Debug\netcoreapp3.1\AluguelQuarto.deps.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\bin\Debug\netcoreapp3.1\AluguelQuarto.runtimeconfig.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\bin\Debug\netcoreapp3.1\AluguelQuarto.runtimeconfig.dev.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\bin\Debug\netcoreapp3.1\AluguelQuarto.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\bin\Debug\netcoreapp3.1\AluguelQuarto.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.csprojAssemblyReference.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.AssemblyInfoInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.AssemblyInfo.cs
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\AluguelQuarto\AluguelQuarto\obj\Debug\netcoreapp3.1\AluguelQuarto.genruntimeconfig.cache

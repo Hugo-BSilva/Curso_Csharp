@@ -11,3 +11,16 @@ C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores\Vetores\obj\Debug\netco
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csprojAssemblyReference.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinallyA142.csproj": {}
+    "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinally_StreamReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinallyA142.csproj": {
+    "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinally_StreamReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinallyA142.csproj",
-        "projectName": "BlocoFinallyA142",
-        "projectPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinallyA142.csproj",
+        "projectUniqueName": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinally_StreamReader.csproj",
+        "projectName": "BlocoFinally_StreamReader",
+        "projectPath": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\BlocoFinally_StreamReader.csproj",
         "packagesPath": "C:\\Users\\hugob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\obj\\",
+        "outputPath": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinallyA142\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
