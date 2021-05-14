@@ -11,3 +11,16 @@ C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstatic
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.dll
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.pdb
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.genruntimeconfig.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.exe
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.deps.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.runtimeconfig.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.runtimeconfig.dev.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\bin\Debug\netcoreapp3.1\MembroEstaticoA46.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.csprojAssemblyReference.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.AssemblyInfoInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.AssemblyInfo.cs
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\MembroEstaticoA46\MembroEstaticoA46\obj\Debug\netcoreapp3.1\MembroEstaticoA46.genruntimeconfig.cache

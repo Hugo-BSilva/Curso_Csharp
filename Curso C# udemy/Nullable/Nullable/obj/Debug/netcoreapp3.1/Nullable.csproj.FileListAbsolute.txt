@@ -11,3 +11,16 @@ C:\Users\hugob\Documents\Projetos\Curso C# udemy\Nullable\Nullable\obj\Debug\net
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csprojAssemblyReference.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache

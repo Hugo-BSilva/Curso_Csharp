@@ -11,3 +11,16 @@ C:\Users\hugob\Documents\Projetos\Curso C# udemy\Struct\Struct\obj\Debug\netcore
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.exe
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.deps.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.runtimeconfig.dev.json
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\bin\Debug\netcoreapp3.1\Struct.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csprojAssemblyReference.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfoInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.AssemblyInfo.cs
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.dll
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.pdb
+H:\Antigo PC\Projetos\Curso_Csharp\Curso C# udemy\Struct\Struct\obj\Debug\netcoreapp3.1\Struct.genruntimeconfig.cache
