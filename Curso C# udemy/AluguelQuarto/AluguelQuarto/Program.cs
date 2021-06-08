@@ -6,7 +6,7 @@ namespace AluguelQuarto
     {
         static void Main(string[] args)
         {
-            //Criando Um vetor do tipo class
+            //Criando um vetor do tipo class
             AluguelDeQuarto[] quarto = new AluguelDeQuarto[10];
             int c = 0;
 

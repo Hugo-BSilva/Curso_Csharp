@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj": {}
+    "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj": {
+    "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj",
+        "projectUniqueName": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj",
         "projectName": "ClassAbstract",
-        "projectPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj",
+        "projectPath": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\ClassAbstract.csproj",
         "packagesPath": "C:\\Users\\hugob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\obj\\",
+        "outputPath": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\ClassAbstract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
