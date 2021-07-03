@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hHvvavNiHTKhmzNZ3RjZV4y6+1FvmG/R+CHTccyH2sEHtJnGpG1FQlyPTucRLkrUNbQjmC6nrl6nt6aqn181Q==",
+  "success": true,
+  "projectFilePath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\SobreCarga\\SobreCarga\\SobreCarga.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
