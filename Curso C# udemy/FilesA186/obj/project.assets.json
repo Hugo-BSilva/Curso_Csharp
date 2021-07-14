@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\FilesA186\\FilesA186.csproj",
+      "projectUniqueName": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\FilesA186\\FilesA186.csproj",
       "projectName": "FilesA186",
-      "projectPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\FilesA186\\FilesA186.csproj",
+      "projectPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\FilesA186\\FilesA186.csproj",
       "packagesPath": "C:\\Users\\hugob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\FilesA186\\obj\\",
+      "outputPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\FilesA186\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,12 +60,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.16, 3.1.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

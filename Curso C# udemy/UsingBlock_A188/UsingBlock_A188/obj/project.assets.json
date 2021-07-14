@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\BlocoFinally_StreamReader\\BlocoFinally_StreamReader.csproj",
-      "projectName": "BlocoFinally_StreamReader",
-      "projectPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\BlocoFinally_StreamReader\\BlocoFinally_StreamReader.csproj",
+      "projectUniqueName": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\UsingBlock_A188\\UsingBlock_A188\\UsingBlock_A188.csproj",
+      "projectName": "UsingBlock_A188",
+      "projectPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\UsingBlock_A188\\UsingBlock_A188\\UsingBlock_A188.csproj",
       "packagesPath": "C:\\Users\\hugob\\.nuget\\packages\\",
-      "outputPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\BlocoFinally_StreamReader\\obj\\",
+      "outputPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\UsingBlock_A188\\UsingBlock_A188\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

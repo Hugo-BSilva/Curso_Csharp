@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4KXcIjPuMY1TS7T5cpVedKZe6TXRK2e5ohgk1bp49T5azrLyYJdzFL/BPrcr2aD5EyMrOAPUmWKaFtRhbNXTng==",
+  "dgSpecHash": "RR2+gqN8JqZDbNA7yzEYVxvbjKsUet2A0SKFFCl6HPDzJIhFzshRWG/UOqwwugxtpInmTtPNAmJpJSFQAlWnnw==",
   "success": true,
-  "projectFilePath": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\BlocoFinally_StreamReader\\BlocoFinally_StreamReader.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\BlocoFinally_StreamReader\\BlocoFinally_StreamReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
   "logs": []
 }
