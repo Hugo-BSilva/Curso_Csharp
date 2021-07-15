@@ -6,7 +6,7 @@ namespace StreamWriter_A189
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
