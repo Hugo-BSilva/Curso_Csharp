@@ -1,0 +1,13 @@
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\bin\Debug\netcoreapp3.1\UsingBlock_A188.exe
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\bin\Debug\netcoreapp3.1\UsingBlock_A188.deps.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\bin\Debug\netcoreapp3.1\UsingBlock_A188.runtimeconfig.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\bin\Debug\netcoreapp3.1\UsingBlock_A188.runtimeconfig.dev.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\bin\Debug\netcoreapp3.1\UsingBlock_A188.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\bin\Debug\netcoreapp3.1\UsingBlock_A188.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\obj\Debug\netcoreapp3.1\UsingBlock_A188.csprojAssemblyReference.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\obj\Debug\netcoreapp3.1\UsingBlock_A188.AssemblyInfoInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\obj\Debug\netcoreapp3.1\UsingBlock_A188.AssemblyInfo.cs
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\obj\Debug\netcoreapp3.1\UsingBlock_A188.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\obj\Debug\netcoreapp3.1\UsingBlock_A188.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\obj\Debug\netcoreapp3.1\UsingBlock_A188.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\UsingBlock_A188\UsingBlock_A188\obj\Debug\netcoreapp3.1\UsingBlock_A188.genruntimeconfig.cache

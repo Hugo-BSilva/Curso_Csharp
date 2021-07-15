@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TiQJ9uiBaBBfZyhBkCTdSGFg9MzGPrymAefRzRjwVnJZ9UBIBnvxREJdf1HaIAZS9w2d5/JBMcUybmN8MHa+rg==",
+  "success": true,
+  "projectFilePath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\StreamWriter_A189\\StreamWriter_A189\\StreamWriter_A189.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

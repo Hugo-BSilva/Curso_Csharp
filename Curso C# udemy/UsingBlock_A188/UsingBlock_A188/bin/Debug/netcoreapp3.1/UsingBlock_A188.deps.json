@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UsingBlock_A188/1.0.0": {
+        "runtime": {
+          "UsingBlock_A188.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingBlock_A188/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
