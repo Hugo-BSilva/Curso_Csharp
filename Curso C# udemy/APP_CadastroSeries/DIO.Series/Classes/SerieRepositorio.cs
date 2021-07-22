@@ -14,7 +14,7 @@ namespace DIO.Series
         }
         public void Exclui(int id)
         {
-            listaSerie[id].Excluir();
+            listaSerie[id].Exclui();
             /* > Excluiu uma série: envia um e-mail < 
             Se for fazer essa funcionalidade, será implementado aqui */
         }

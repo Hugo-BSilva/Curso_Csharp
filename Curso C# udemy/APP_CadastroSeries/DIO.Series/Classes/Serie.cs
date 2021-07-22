@@ -24,20 +24,26 @@ namespace DIO.Series
             //Environment= interpreta uma nova linha 
             string retorno = "";
             retorno += "Gênero: " + this.Genero + Environment.NewLine;
-            retorno += "Título: " + this.Genero + Environment.NewLine;
-            retorno += "Descrição: " + this.Genero + Environment.NewLine;
-            retorno += "Ano de início: " + this.Ano;
+            retorno += "Título: " + this.Titulo + Environment.NewLine;
+            retorno += "Descrição: " + this.Descricao + Environment.NewLine;
+            retorno += "Ano de início: " + this.Ano + Environment.NewLine;
+            retorno += "Excluido: " + this.Excluido;
             return retorno;
         }
         public string RetornaTitulo()
         {
             return this.Titulo;
         }
+
+        public bool RetornaExcluido()
+        {
+            return this.Excluido;
+        }
         internal int RetornaId()
         {
             return this.Id;
         }
-        public void Excluir()
+        public void Exclui()
         {
             this.Excluido = true;
         }

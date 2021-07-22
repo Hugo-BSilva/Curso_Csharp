@@ -11,3 +11,16 @@ C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\o
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.dll
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.pdb
 C:\Users\hugob\Documents\Projetos\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.genruntimeconfig.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.exe
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.deps.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.runtimeconfig.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.runtimeconfig.dev.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\bin\Debug\netcoreapp3.1\ModificadorOut.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.csprojAssemblyReference.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.AssemblyInfoInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.AssemblyInfo.cs
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\ModificadorOut\ModificadorOut\obj\Debug\netcoreapp3.1\ModificadorOut.genruntimeconfig.cache

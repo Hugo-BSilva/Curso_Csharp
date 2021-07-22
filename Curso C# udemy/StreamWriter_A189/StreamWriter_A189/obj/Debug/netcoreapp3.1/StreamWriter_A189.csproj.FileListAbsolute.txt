@@ -1,0 +1,13 @@
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\bin\Debug\netcoreapp3.1\StreamWriter_A189.exe
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\bin\Debug\netcoreapp3.1\StreamWriter_A189.deps.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\bin\Debug\netcoreapp3.1\StreamWriter_A189.runtimeconfig.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\bin\Debug\netcoreapp3.1\StreamWriter_A189.runtimeconfig.dev.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\bin\Debug\netcoreapp3.1\StreamWriter_A189.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\bin\Debug\netcoreapp3.1\StreamWriter_A189.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\obj\Debug\netcoreapp3.1\StreamWriter_A189.csprojAssemblyReference.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\obj\Debug\netcoreapp3.1\StreamWriter_A189.AssemblyInfoInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\obj\Debug\netcoreapp3.1\StreamWriter_A189.AssemblyInfo.cs
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\obj\Debug\netcoreapp3.1\StreamWriter_A189.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\obj\Debug\netcoreapp3.1\StreamWriter_A189.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\obj\Debug\netcoreapp3.1\StreamWriter_A189.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\StreamWriter_A189\StreamWriter_A189\obj\Debug\netcoreapp3.1\StreamWriter_A189.genruntimeconfig.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nar9b0XkGQ6a4ojo9azM2YK6DNWsDbe4HVfz/CvRcL2mOk/Bhhg7oRayWTA/hZ3XoOiLqHRqDWZLzKKA1ErDfA==",
+  "dgSpecHash": "dmhyJGXIypiICVjRpejZMU4gDiIc9JUV/WQgzajiaEi3OD6uy06NQnjgmpH+7eLh2TnGJKvm0ILqi1EMdD7FKw==",
   "success": true,
-  "projectFilePath": "H:\\Antigo PC\\Projetos\\Curso_Csharp\\Curso C# udemy\\FuncaoSplit\\FuncaoSplit\\FuncaoSplit.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\FuncaoSplit\\FuncaoSplit\\FuncaoSplit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
   "logs": []
 }
