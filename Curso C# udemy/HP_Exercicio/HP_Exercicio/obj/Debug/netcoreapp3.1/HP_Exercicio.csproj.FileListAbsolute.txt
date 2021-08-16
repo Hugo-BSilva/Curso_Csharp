@@ -1,0 +1,13 @@
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\bin\Debug\netcoreapp3.1\HP_Exercicio.exe
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\bin\Debug\netcoreapp3.1\HP_Exercicio.deps.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\bin\Debug\netcoreapp3.1\HP_Exercicio.runtimeconfig.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\bin\Debug\netcoreapp3.1\HP_Exercicio.runtimeconfig.dev.json
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\bin\Debug\netcoreapp3.1\HP_Exercicio.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\bin\Debug\netcoreapp3.1\HP_Exercicio.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\obj\Debug\netcoreapp3.1\HP_Exercicio.csprojAssemblyReference.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\obj\Debug\netcoreapp3.1\HP_Exercicio.AssemblyInfoInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\obj\Debug\netcoreapp3.1\HP_Exercicio.AssemblyInfo.cs
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\obj\Debug\netcoreapp3.1\HP_Exercicio.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\obj\Debug\netcoreapp3.1\HP_Exercicio.dll
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\obj\Debug\netcoreapp3.1\HP_Exercicio.pdb
+H:\Antigo PC\Curso C#\Curso_Csharp\Curso C# udemy\HP_Exercicio\HP_Exercicio\obj\Debug\netcoreapp3.1\HP_Exercicio.genruntimeconfig.cache

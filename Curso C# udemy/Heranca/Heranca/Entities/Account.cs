@@ -27,7 +27,8 @@ namespace Heranca.Entities
 
         /* Método para saque, ela possui o prefixo virtual justamente para que a SavingAccount possa 
         sobrescrever esse método */
-        public virtual void Withdraw(double amount) //recebe uma quantia como parâmetro de entrada
+        //recebe uma quantia como parâmetro de entrada
+        public virtual void Withdraw(double amount) 
         {
             Balance -= amount + 5;
         }

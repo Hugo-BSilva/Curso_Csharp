@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gZPlDdSDYxUKEzT7zBi5XBYFT6UPKH72r4L1Sy4l/7mTBuy5Ec5IbwB9HShmUcDDOAZfWgRhEBNCrcqN+L3ptg==",
+  "success": true,
+  "projectFilePath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\HP_Exercicio\\HP_Exercicio\\HP_Exercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
