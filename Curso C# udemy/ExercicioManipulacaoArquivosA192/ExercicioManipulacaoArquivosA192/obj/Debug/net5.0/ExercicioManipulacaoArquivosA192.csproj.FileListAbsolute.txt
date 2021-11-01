@@ -1,0 +1,16 @@
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\ExercicioManipulacaoArquivosA192.exe
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\ExercicioManipulacaoArquivosA192.deps.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\ExercicioManipulacaoArquivosA192.runtimeconfig.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\ExercicioManipulacaoArquivosA192.runtimeconfig.dev.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\ExercicioManipulacaoArquivosA192.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\ref\ExercicioManipulacaoArquivosA192.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\ExercicioManipulacaoArquivosA192.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.csprojAssemblyReference.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.GeneratedMSBuildEditorConfig.editorconfig
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.AssemblyInfoInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.AssemblyInfo.cs
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ref\ExercicioManipulacaoArquivosA192.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.genruntimeconfig.cache

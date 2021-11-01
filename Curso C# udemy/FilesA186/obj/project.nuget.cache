@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbCrN5iuaOb/nAgDcgmE7TAal9Yu3vL5f6yYY6lQ54ONFniGgw5HQ3QWgc/HA6/WrY5SpgCxTHMtn8EcULX+Wg==",
+  "dgSpecHash": "1I62hgFA7rh3LbIBy+F4V6usItqiUVYi472iujuWo6oTbT2JXfKgu/a9PMEs5MpAWFtUsaxPlMRbfe0mzqfDZg==",
   "success": true,
-  "projectFilePath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\FilesA186\\FilesA186.csproj",
+  "projectFilePath": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\FilesA186\\FilesA186.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
   ],
