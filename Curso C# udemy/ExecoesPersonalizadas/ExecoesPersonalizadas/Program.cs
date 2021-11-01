@@ -38,19 +38,12 @@ namespace ExecoesPersonalizadas
                 Console.Write("Check-out Date: ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
-                if (checkIn < now || checkOut < now)
-                {
-                    Console.WriteLine("Error in reservation: Reservation dates for update must be future dates.");
-                }
-                else if (checkOut <= checkIn)
-                {
-                    Console.WriteLine("Error in reservation: Check-out date must be after check-in date.");
-                }
+                string error = reservation.UpdateDates(checkIn, checkOut);
+
                 else
                 {
                     reservation.UpdateDates(checkIn, checkOut);
-                    Console.WriteLine("Reservation: " + reservation);
+                    Console.WriteLine("Reservation: " + error);
                 }
 
             }          
