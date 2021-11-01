@@ -1,0 +1,16 @@
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\bin\Debug\net5.0\ExecoesPersonalizadas.exe
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\bin\Debug\net5.0\ExecoesPersonalizadas.deps.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\bin\Debug\net5.0\ExecoesPersonalizadas.runtimeconfig.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\bin\Debug\net5.0\ExecoesPersonalizadas.runtimeconfig.dev.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\bin\Debug\net5.0\ExecoesPersonalizadas.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\bin\Debug\net5.0\ref\ExecoesPersonalizadas.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\bin\Debug\net5.0\ExecoesPersonalizadas.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.csprojAssemblyReference.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.AssemblyInfoInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.AssemblyInfo.cs
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ref\ExecoesPersonalizadas.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExecoesPersonalizadas\ExecoesPersonalizadas\obj\Debug\net5.0\ExecoesPersonalizadas.genruntimeconfig.cache

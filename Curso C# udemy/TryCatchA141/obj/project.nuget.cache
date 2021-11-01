@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6R9j3eUB0yyHSOOgUYFe+js1SQnNIiDqLI85p4y5FsZ3bWK5v2BIHsWsbbnNYp4Xi1JfPbn2CZsXsJsP5EX9/w==",
+  "dgSpecHash": "colD8oVX1wQm9pGdrSVJGSuqSR+wxQRdJt34v3Q7udFFxmNoiw/eBBfSjq05A8HkBJtK4BjjQ4rBQxnjINbaQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
   "logs": []
 }

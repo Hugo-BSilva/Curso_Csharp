@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj": {}
+    "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj": {
+    "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj",
+        "projectUniqueName": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj",
         "projectName": "TryCatchA141",
-        "projectPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj",
+        "projectPath": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\TryCatchA141.csproj",
         "packagesPath": "C:\\Users\\hugob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugob\\Documents\\Projetos\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\obj\\",
+        "outputPath": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\TryCatchA141\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,12 +53,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.16, 3.1.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
