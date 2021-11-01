@@ -1,0 +1,16 @@
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\bin\Debug\net5.0\DirectoryA190.exe
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\bin\Debug\net5.0\DirectoryA190.deps.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\bin\Debug\net5.0\DirectoryA190.runtimeconfig.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\bin\Debug\net5.0\DirectoryA190.runtimeconfig.dev.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\bin\Debug\net5.0\DirectoryA190.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\bin\Debug\net5.0\ref\DirectoryA190.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\bin\Debug\net5.0\DirectoryA190.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.csprojAssemblyReference.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.GeneratedMSBuildEditorConfig.editorconfig
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.AssemblyInfoInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.AssemblyInfo.cs
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\ref\DirectoryA190.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\DirectoryA190\DirectoryA190\obj\Debug\net5.0\DirectoryA190.genruntimeconfig.cache
