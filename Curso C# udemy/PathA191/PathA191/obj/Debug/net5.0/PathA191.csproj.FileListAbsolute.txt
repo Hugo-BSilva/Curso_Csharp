@@ -1,0 +1,16 @@
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\bin\Debug\net5.0\PathA191.exe
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\bin\Debug\net5.0\PathA191.deps.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\bin\Debug\net5.0\PathA191.runtimeconfig.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\bin\Debug\net5.0\PathA191.runtimeconfig.dev.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\bin\Debug\net5.0\PathA191.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\bin\Debug\net5.0\ref\PathA191.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\bin\Debug\net5.0\PathA191.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.csprojAssemblyReference.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.GeneratedMSBuildEditorConfig.editorconfig
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.AssemblyInfoInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.AssemblyInfo.cs
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\ref\PathA191.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\PathA191\PathA191\obj\Debug\net5.0\PathA191.genruntimeconfig.cache
