@@ -1,0 +1,16 @@
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\bin\Debug\net5.0\ExercicioExcecoesA146.exe
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\bin\Debug\net5.0\ExercicioExcecoesA146.deps.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\bin\Debug\net5.0\ExercicioExcecoesA146.runtimeconfig.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\bin\Debug\net5.0\ExercicioExcecoesA146.runtimeconfig.dev.json
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\bin\Debug\net5.0\ExercicioExcecoesA146.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\bin\Debug\net5.0\ref\ExercicioExcecoesA146.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\bin\Debug\net5.0\ExercicioExcecoesA146.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.csprojAssemblyReference.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.GeneratedMSBuildEditorConfig.editorconfig
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.AssemblyInfoInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.AssemblyInfo.cs
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.csproj.CoreCompileInputs.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ref\ExercicioExcecoesA146.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.pdb
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioExcecoesA146\ExercicioExcecoesA146\obj\Debug\net5.0\ExercicioExcecoesA146.genruntimeconfig.cache
