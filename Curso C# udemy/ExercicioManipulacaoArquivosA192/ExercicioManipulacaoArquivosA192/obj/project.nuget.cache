@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2DByvDKMPSn1M2eRiAdxLA4TOkn4xggVrnmqsM9EXkjT1cdGdNQ2EziNIw0xGp2e6Q61d2odEpjiLsAmaTE/ZQ==",
+  "dgSpecHash": "5b8pvYkq2bQrr5B3dU15Lkn9x9z5lOOcT1lV6NHRr2H94a7FO8SzX+yWzW2qkzlpPwIYVINJZGMGx6nr0N5YQA==",
   "success": true,
   "projectFilePath": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\ExercicioManipulacaoArquivosA192\\ExercicioManipulacaoArquivosA192\\ExercicioManipulacaoArquivosA192.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugob\\.nuget\\packages\\grpc.core\\2.41.1\\grpc.core.2.41.1.nupkg.sha512",
     "C:\\Users\\hugob\\.nuget\\packages\\grpc.core.api\\2.41.1\\grpc.core.api.2.41.1.nupkg.sha512",
+    "C:\\Users\\hugob\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\hugob\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []

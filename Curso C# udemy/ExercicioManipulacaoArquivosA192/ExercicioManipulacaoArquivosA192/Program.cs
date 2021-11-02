@@ -1,7 +1,5 @@
-﻿using Grpc.Core;
+﻿using ExercicioManipulacaoArquivosA192.Entities;
 using System;
-using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
 using System.Text;
 
@@ -13,81 +11,61 @@ namespace ExercicioManipulacaoArquivosA192
     e o valor total para aquele item(preço unitário multiplicado pela quantidade).*/
     class Program
     {
-        static string diretorioPadrao = @"c:\temp\myfolder";
+        static string path = @"c:\temp\myfolder\out\summary.csv";
 
         static void Main(string[] args)
         {
+            string linha, nameProduct, amountSTR;
+            string[] productVector;
+            double valueProduto, amount;
+            int quantidade;
+            Product products;
+            StringBuilder sb = new StringBuilder();
+
             try
-            {
-                Console.WriteLine(" ===> INICIANDO PROCESSAMENTO...");
-                if (Directory.Exists(diretorioPadrao))
-                {
-                    var files = Directory.GetFiles(diretorioPadrao);
-
-                    foreach (var file in files)
+            {    
+                using (StreamReader sr = new StreamReader(File.OpenRead(@"c:\temp\myfolder\file.csv"), Encoding.UTF8))
+                {    
+                    while ((linha = sr.ReadLine()) != null)
                     {
-                        if (file.Contains(".csv"))
-                        {
-                            Console.WriteLine($"=> Leitura do arquivo: {file} iniciada...");
-                            using (StreamReader sr = new StreamReader(File.OpenRead(file), Encoding.UTF8))
-                            {
-                                int numlinha = 1;
-                                string linha;
-                                string[] produtoLinha;
+                        productVector = linha.Split(",");
 
-                                string nomeProduto;
-                                DateTime dataDeValidade;
-                                string valorSTR;
-                                double valorProduto;
-                                int quantidade;
+                        nameProduct = productVector[0];
 
-                                while ((linha = sr.ReadLine()) != null)
-                                {
-                                    //Dependendo do formato do arquivo, as informações se dividem por , ou ;
-                                    produtoLinha = linha.Split(",");
+                        amountSTR = productVector[1].Replace(".", ",");
 
+                        valueProduto = double.Parse(amountSTR);
 
-                                    nomeProduto = produtoLinha[0];
-                                    valorSTR = produtoLinha[1].Replace("R$ ", "").Trim();
-                                    valorProduto = double.Parse(valorSTR.Replace(".", ","));
-                                    quantidade = int.Parse(produtoLinha[2]);
-                                    double valortotal = valorProduto * quantidade;
+                        quantidade = int.Parse(productVector[2]);
 
-                                    Console.WriteLine("Leitura da linha: " + numlinha + $"- Nome: {nomeProduto}" +
-                                            $" - Valor do produto: R$: {valorProduto.ToString("F2", CultureInfo.InvariantCulture)}" +
-                                            $" - Quantidade: {quantidade}" +
-                                            $" - Valor total: R$ {valortotal.ToString("F2", CultureInfo.InvariantCulture)}");
-                                    numlinha++;
+                        amount = valueProduto * quantidade;
 
-                                    IEnumerable<string> folders = Directory.EnumerateDirectories(diretorioPadrao, "*.*", SearchOption.AllDirectories);
-                                    Directory.CreateDirectory(diretorioPadrao + "\\out");
-
-                                    string nomeArquivo = "summary.csv";
-
-
-                                    Console.WriteLine($"Arquivo {nomeArquivo} criado com sucesso");
-                                    using (StreamWriter sw = File.CreateText(diretorioPadrao + "\\out\\summary.csv"))
-                                    {
-                                        sw.WriteLine(nomeProduto + "," + valortotal);
-                                    }
-
-                                    Console.WriteLine($"Arquivo {nomeArquivo} criado e preenchido com sucesso");
-
-
-
-                                }
-
-                                Console.WriteLine("<= Finalizando Leitura de arquivo + arquivo");
-                            }
-                        }
+                        products = new Product(nameProduct, amount);
+                                                
+                        sb.AppendLine(products.Nome_Produto + "," + products.Valor_Total.ToString().Replace(",", "."));
+                        Console.WriteLine($"Contents: {products.Nome_Produto} | R$ {amount} | {quantidade}");
+                        Console.WriteLine();
                     }
 
-                    Console.WriteLine(" <=== FINALIZANDO PROCESSAMENTO");
+                    Console.WriteLine("Content the file: \n" + sb);
+
+                    using (StreamWriter sw = File.CreateText(path))
+                    {
+                        sw.WriteLine(sb);
+                        Console.WriteLine("Done! Content entered in file out/summary.csv.");
+                        sw.Close();
+                    }
+
+                    sr.Close();
                 }
+            }
+            catch (IOException e)
+            {
+                Console.WriteLine("An error occurred: " + e.Message);
             }
             catch (Exception e)
             {
-                Console.WriteLine("An error ocured: " + e.Message);
+                Console.WriteLine("An error unexpected ocurred: " + e.Message);
             }
         }
     }
