@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\StreamWriter_A189\\StreamWriter_A189\\StreamWriter_A189.csproj",
+      "projectUniqueName": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\StreamWriter_A189\\StreamWriter_A189\\StreamWriter_A189.csproj",
       "projectName": "StreamWriter_A189",
-      "projectPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\StreamWriter_A189\\StreamWriter_A189\\StreamWriter_A189.csproj",
+      "projectPath": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\StreamWriter_A189\\StreamWriter_A189\\StreamWriter_A189.csproj",
       "packagesPath": "C:\\Users\\hugob\\.nuget\\packages\\",
-      "outputPath": "H:\\Antigo PC\\Curso C#\\Curso_Csharp\\Curso C# udemy\\StreamWriter_A189\\StreamWriter_A189\\obj\\",
+      "outputPath": "H:\\Antigo PC\\Udemy C#\\C# UDEMY\\Curso_Csharp\\Curso C# udemy\\StreamWriter_A189\\StreamWriter_A189\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

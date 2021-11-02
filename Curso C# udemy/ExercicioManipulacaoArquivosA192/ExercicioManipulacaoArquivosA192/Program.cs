@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Grpc.Core;
+using System;
+using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Text;
@@ -57,11 +59,30 @@ namespace ExercicioManipulacaoArquivosA192
                                             $" - Valor total: R$ {valortotal.ToString("F2", CultureInfo.InvariantCulture)}");
                                     numlinha++;
 
-                                }
-                            }
+                                    IEnumerable<string> folders = Directory.EnumerateDirectories(diretorioPadrao, "*.*", SearchOption.AllDirectories);
+                                    Directory.CreateDirectory(diretorioPadrao + "\\out");
 
+                                    string nomeArquivo = "summary.csv";
+
+
+                                    Console.WriteLine($"Arquivo {nomeArquivo} criado com sucesso");
+                                    using (StreamWriter sw = File.CreateText(diretorioPadrao + "\\out\\summary.csv"))
+                                    {
+                                        sw.WriteLine(nomeProduto + "," + valortotal);
+                                    }
+
+                                    Console.WriteLine($"Arquivo {nomeArquivo} criado e preenchido com sucesso");
+
+
+
+                                }
+
+                                Console.WriteLine("<= Finalizando Leitura de arquivo + arquivo");
+                            }
                         }
                     }
+
+                    Console.WriteLine(" <=== FINALIZANDO PROCESSAMENTO");
                 }
             }
             catch (Exception e)

@@ -14,3 +14,11 @@ H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoA
 H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ref\ExercicioManipulacaoArquivosA192.dll
 H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.pdb
 H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.genruntimeconfig.cache
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\Grpc.Core.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\Grpc.Core.Api.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+H:\Antigo PC\Udemy C#\C# UDEMY\Curso_Csharp\Curso C# udemy\ExercicioManipulacaoArquivosA192\ExercicioManipulacaoArquivosA192\obj\Debug\net5.0\ExercicioManipulacaoArquivosA192.csproj.CopyComplete
