@@ -1,4 +1,4 @@
-﻿using Interfaces.Models;
+﻿using Interfaces.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,36 +11,34 @@ namespace Interfaces.Services
     /// Serviço de aluguel
     /// </summary>
     class RentalService
-    {
-        public double PriceHour { get; set; }
-        public double PriceDay { get; set; }
+    {      
+        public double PriceHour { get; private set; }
+        public double PriceDay { get; private set; }
+
+        //Dependência de forma errada
+        private BrazilTaxService _brazilTaxService = new BrazilTaxService();
+
+        public RentalService(double priceHour, double priceDay)
+        {
+            PriceHour = priceHour;
+            PriceDay = priceDay;
+        }
 
         /// <summary>
-        /// Processar nota de pagamento
+        /// Processar nota de pagamento.
         /// </summary>
         /// <param name="carRental"></param>
         public void ProcessInvoice(CarRental carRental)
         {
+            TimeSpan duration = carRental.Finish.Subtract(carRental.Start);
 
-        }
+            double basicPayment = 0.0;
 
-        public double BasicPayment(DateTime pickup, DateTime regress)
-        {
-            //int dateReturn = TimeSpan.
-            if (pickup.Hour > regress.Hour)
+            if (duration.TotalHours <= 12.0)
             {
-
+                //Math.Ceiling método para arredondar as horas para cima
+                basicPayment = PriceHour * Math.Ceiling(duration.TotalHours);
             }
-
-            return 0;
-        }
-
-        
-
-        public double TotalPayment()
-        {
-
-            return 0;
         }
     }
 }
