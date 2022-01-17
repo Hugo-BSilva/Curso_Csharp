@@ -13,15 +13,15 @@ namespace Interfaces.Services
         /// </summary>
         /// <param name="price"></param>
         /// <returns></returns>
-        public double Tax(double price)
+        public double Tax(double amount)
         {
-            if (price > 100)
+            if (amount > 100)
             {
-                return price * 0.15;
+                return amount * 0.15;
             }
             else
             {
-                return price * 0.20;
+                return amount * 0.20;
             }
         }
     }

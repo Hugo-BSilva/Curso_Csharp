@@ -11,8 +11,8 @@ namespace Interfaces.Entities
     /// </summary>
     class CarRental
     {
-        private DateTime Start { get; set; }
-        private DateTime Finish { get; set; }
+        public DateTime Start { get; set; }
+        public DateTime Finish { get; set; }
         public Vehicle Vehicle { get; set; }
         public Invoice Invoice { get; set; }
 
