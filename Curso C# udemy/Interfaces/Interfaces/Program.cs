@@ -1,9 +1,9 @@
-﻿using Interfaces.Entities;
-using Interfaces.Services;
+﻿using SemInterface.Entities;
+using SemInterface.Services;
 using System;
 using System.Globalization;
 
-namespace Interfaces
+namespace SemInterface
 {
     class Program
     {

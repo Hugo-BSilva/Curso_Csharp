@@ -1,11 +1,11 @@
-﻿using Interfaces.Entities;
+﻿using SemInterface.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interfaces.Services
+namespace SemInterface.Services
 {
     /// <summary>
     /// Serviço de aluguel
