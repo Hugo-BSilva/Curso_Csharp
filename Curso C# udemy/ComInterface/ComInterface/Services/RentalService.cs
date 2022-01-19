@@ -16,12 +16,19 @@ namespace ComInterface.Services
         public double PriceDay { get; private set; }
 
         //Dependência de forma errada
-        private BrazilTaxService _brazilTaxService = new BrazilTaxService();
+        private ITaxService _taxService;
 
-        public RentalService(double priceHour, double priceDay)
+        /// <summary>
+        /// Chamamos essa alteração de inversão de controle por meio de injeção de dependência
+        /// </summary>
+        /// <param name="priceHour"></param>
+        /// <param name="priceDay"></param>
+        /// <param name="taxService"></param>
+        public RentalService(double priceHour, double priceDay, ITaxService taxService)
         {
             PriceHour = priceHour;
             PriceDay = priceDay;
+            _taxService = taxService;
         }
 
         /// <summary>
@@ -44,7 +51,7 @@ namespace ComInterface.Services
             }
 
             //Está calculando o imposto com base no pagamento básico
-            double tax = _brazilTaxService.Tax(basicPayment);
+            double tax = _taxService.Tax(basicPayment);
 
             carRental.Invoice = new Invoice(basicPayment, tax);
         }
