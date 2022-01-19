@@ -33,12 +33,20 @@ namespace Interfaces.Services
             TimeSpan duration = carRental.Finish.Subtract(carRental.Start);
 
             double basicPayment = 0.0;
-
             if (duration.TotalHours <= 12.0)
             {
                 //Math.Ceiling método para arredondar as horas para cima
                 basicPayment = PriceHour * Math.Ceiling(duration.TotalHours);
             }
+            else
+            {
+                basicPayment = PriceDay * Math.Ceiling(duration.TotalDays);
+            }
+
+            //Está calculando o imposto com base no pagamento básico
+            double tax = _brazilTaxService.Tax(basicPayment);
+
+            carRental.Invoice = new Invoice(basicPayment, tax);
         }
     }
 }

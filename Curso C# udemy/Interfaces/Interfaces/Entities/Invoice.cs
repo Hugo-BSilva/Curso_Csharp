@@ -25,7 +25,6 @@ namespace Interfaces.Entities
             get { return BasicPayment + Tax; } 
         }
 
-
         public override string ToString()
         {            
             return "Basic payment: " + 
