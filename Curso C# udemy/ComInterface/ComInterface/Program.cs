@@ -27,7 +27,9 @@ namespace ComInterface
 
 
             CarRental carRental = new CarRental(datePickup, dateReturn, new Vehicle(carModel));
-            RentalService rentalService = new RentalService(priceHour, priceDay);
+
+            //É possível instanciar a classe Brazil pois ela é um subtipo de ITaxService, essa operação acontece por meio de upcasting
+            RentalService rentalService = new RentalService(priceHour, priceDay, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 

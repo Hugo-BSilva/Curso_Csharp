@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ComInterface.Services
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService
     {
         /// <summary>
         /// O imposto deve ser de 20% para valores abaixo de 100, acima disso 15%.
