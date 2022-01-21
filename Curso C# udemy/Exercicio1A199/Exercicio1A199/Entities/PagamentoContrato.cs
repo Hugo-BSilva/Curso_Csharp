@@ -7,18 +7,18 @@ using System.Threading.Tasks;
 
 namespace Exercicio1A199.Entities
 {
-    class Agreement
+    class PagamentoContrato
     {
-        public int NumberContract { get; set; }
-        public DateTime DateOfContract { get; set; }
-        public double TotalPayment { get; set; }
-        //public int MonthlyPayment { get; set; }
+        private double BasicPayment { get; set; }
 
-        public Agreement(double totalPayment)
+        public PagamentoContrato(double basicPayment)
         {
-            TotalPayment = totalPayment;
-            //NumberContract = numberContract;
-            //DateOfContract = dateOfContract;
+            BasicPayment = basicPayment;
+        }
+
+        private double TotalPayment
+        {
+            get { return BasicPayment; }
         }
 
         public override string ToString()
