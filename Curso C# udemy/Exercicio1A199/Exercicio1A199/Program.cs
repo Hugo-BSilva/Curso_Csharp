@@ -23,13 +23,13 @@ namespace Exercicio1A199
             int numberInstallments = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Installments");
-            Agreement agreement = new Agreement(numberContract, dateContract, valueTotalContract);
+            Agreement agreement = new Agreement(numberContract, dateContract);
 
-            PaymentService payment = new PaymentService(numberInstallments, new Agreement(valueTotalContract));
+            PaymentService payment = new PaymentService(numberInstallments, new Agreement(valueTotalContract), new Paypal());
 
-            for (int i = 0; i <= payment.MonthlyPayment; i++)
+            for (int i = 0; i <= agreement.MonthlyPayment; i++)
             {
-                payment.GenerateInstallments(numberInstallments);
+                payment.GenerateInstallments(agreement);
 
                 Console.WriteLine(agreement);
             }

@@ -15,7 +15,7 @@ namespace Exercicio1A199.Services
 
         public double SimpleInterest(double amount)
         {
-            return amount + 0.02;
+            return amount * 0.02;
         }
     }
 }

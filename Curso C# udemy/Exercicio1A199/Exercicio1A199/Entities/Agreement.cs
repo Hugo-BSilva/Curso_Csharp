@@ -12,18 +12,24 @@ namespace Exercicio1A199.Entities
         public int NumberContract { get; set; }
         public DateTime DateOfContract { get; set; }
         public double TotalContractValue { get; set; }
+        public int MonthlyPayment { get; set; }
 
-        public Agreement(int numberContract, DateTime dateOfContract, double totalContractValue)
+        public Agreement(int numberContract, DateTime dateOfContract)
         {
             NumberContract = numberContract;
             DateOfContract = dateOfContract;
-            TotalContractValue = totalContractValue;
+            //TotalContractValue = totalContractValue;
+            //MonthlyPayment = monthlyPayment;
         }
-
         public Agreement(double totalContractValue)
         {
             TotalContractValue = totalContractValue;
         }
+
+        //public Agreement(double totalContractValue)
+        //{
+        //    TotalContractValue = totalContractValue;
+        //}
 
         public override string ToString()
         {
