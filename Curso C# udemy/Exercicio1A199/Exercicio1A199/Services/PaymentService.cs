@@ -9,25 +9,26 @@ namespace Exercicio1A199.Services
 {
     class PaymentService
     {
-        public double TotalPayment { get; set; }
+        
         public int MonthlyPayment { get; set; }
         public Agreement Agreement { get; set; }
+        public double TotalPayment { get; set; }
 
         private IPayment _payment;
        
 
-        public PaymentService(double totalPayment, int monthlyPayment, IPayment payment)
+        public PaymentService(int monthlyPayment, IPayment payment, double totalPayment)
         {
-            TotalPayment = totalPayment;
             MonthlyPayment = monthlyPayment;
             //Agreement = agreement;
             _payment = payment;
+            TotalPayment = totalPayment;
         }
 
         /// <summary>
         /// Gerar as parcelas.
         /// </summary>
-        public double GenerateInstallments()
+        public void GenerateInstallments(Agreement agreement)
         {            
             double agreementValue = TotalPayment / MonthlyPayment;
 
@@ -35,7 +36,11 @@ namespace Exercicio1A199.Services
 
             var taxaPagamento = _payment.SimpleInterest(jurosSimples) + jurosSimples;
 
-            return taxaPagamento + taxaPagamento;
+            double resultado = taxaPagamento;
+
+            new Agreement(resultado);
+
+            //return taxaPagamento + taxaPagamento;
         }
     }
 }

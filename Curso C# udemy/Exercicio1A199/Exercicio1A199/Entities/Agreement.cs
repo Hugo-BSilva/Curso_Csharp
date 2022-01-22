@@ -12,19 +12,26 @@ namespace Exercicio1A199.Entities
         public int NumberContract { get; set; }
         public DateTime DateOfContract { get; set; }
         public double TotalPayment { get; set; }
+        public double ValorParcela { get; set; }
         //public int MonthlyPayment { get; set; }
 
-        public Agreement(double totalPayment)
+
+        public Agreement()
         {
-            TotalPayment = totalPayment;
+        }
+
+        public Agreement(double valorParcela)
+        {
             //NumberContract = numberContract;
             //DateOfContract = dateOfContract;
+            //TotalPayment = totalPayment;
+            ValorParcela = valorParcela;
         }
 
         public override string ToString()
         {
             return "Value installments: " +
-                TotalPayment.ToString("F2", CultureInfo.InvariantCulture) + "\n";
+                ValorParcela.ToString("F2", CultureInfo.InvariantCulture) + "\n";
         }
     }
 }
