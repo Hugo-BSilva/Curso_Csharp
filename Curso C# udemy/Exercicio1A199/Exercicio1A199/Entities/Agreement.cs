@@ -12,24 +12,19 @@ namespace Exercicio1A199.Entities
         public int NumberContract { get; set; }
         public DateTime DateOfContract { get; set; }
         public double TotalPayment { get; set; }
-        public Installments Installments { get; set; }
-
-
-        public Agreement()
-        {
-        }
+        public List<Installments> Installments { get; set; }
 
         public Agreement(int numberContract, DateTime dateOfContract, double totalPayment)
         {
             NumberContract = numberContract;
             DateOfContract = dateOfContract;
             TotalPayment = totalPayment;
-        }
-
-        public override string ToString()
+            Installments = new List<Installments>();
+        }       
+        
+        public void AddInstallments(Installments installments)
         {
-            return "Value installments: " +
-                TotalPayment.ToString("F2", CultureInfo.InvariantCulture) + "\n";
+            Installments.Add(installments);
         }
     }
 }

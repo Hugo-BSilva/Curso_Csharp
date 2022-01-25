@@ -7,31 +7,30 @@ using System.Threading.Tasks;
 
 namespace Exercicio1A199.Services
 {
+    /// <summary>
+    /// Serviço de contratos
+    /// </summary>
     class ContractService
     {
-        //public Agreement Agreement { get; set; }
-        //public int Months { get; set; }
-
         private IOnlinePaymentService _onlinePaymentService;
 
         public ContractService(IOnlinePaymentService onlinePaymentService)
         {
-            //Agreement = agreement;
-            //Months = months;
             _onlinePaymentService = onlinePaymentService;
         }
 
         public void ProcessContract(Agreement agreement, int months)
         {
-            double agreementValue = agreement.TotalPayment / months;
+            double valueInstallment = agreement.TotalPayment / months;
 
-            var jurosSimples = _onlinePaymentService.PaymentRate(agreementValue) + agreementValue;
+            for (int i = 1; i <= months; i++)
+            {
+                DateTime date = agreement.DateOfContract.AddMonths(i);
+                double simpleInterest = _onlinePaymentService.SimpleInterest(valueInstallment, i) + valueInstallment;
+                double paymentRate = _onlinePaymentService.PaymentRate(simpleInterest) + simpleInterest;
 
-            var taxaPagamento = _onlinePaymentService.SimpleInterest(jurosSimples, months) + jurosSimples;
-
-            double resultado = taxaPagamento;
-
-            new Installments(resultado);
+                agreement.AddInstallments(new Installments(date, paymentRate));
+            }      
         }
     }
 }

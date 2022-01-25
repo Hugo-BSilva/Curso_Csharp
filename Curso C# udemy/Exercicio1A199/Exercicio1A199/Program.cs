@@ -1,6 +1,7 @@
 ﻿using Exercicio1A199.Entities;
 using Exercicio1A199.Services;
 using System;
+using System.Collections.Generic;
 using System.Globalization;
 
 namespace Exercicio1A199
@@ -22,20 +23,15 @@ namespace Exercicio1A199
             Console.Write("Enter number of installments: ");
             int numberInstallments = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Installments");
-
             Agreement agreement = new Agreement(numberContract, dateContract, valueTotalContract);
+            ContractService contractService = new ContractService(new PaypalService());
 
-            Installments installments = new Installments();
+            contractService.ProcessContract(agreement, numberInstallments);
 
-            //ContractService contractService = new ContractService(agreement, numberInstallments, new PaypalService());
-            
-
-            for (int i = 0; i < numberInstallments; i++)
-            {
-                contractService.ProcessContract(agreement, numberInstallments);
-                Console.WriteLine(contractService);
-                Console.WriteLine(installments);
+            Console.WriteLine("INSTALLMENTS: ");
+            foreach (var installment in agreement.Installments)
+            {                
+                Console.WriteLine(installment);
             }
         }
     }
