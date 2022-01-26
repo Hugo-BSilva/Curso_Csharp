@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDiamante", "InterfacesDiamante\InterfacesDiamante.csproj", "{0CB342E0-2956-493D-81A8-EF9495981DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB342E0-2956-493D-81A8-EF9495981DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB342E0-2956-493D-81A8-EF9495981DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB342E0-2956-493D-81A8-EF9495981DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB342E0-2956-493D-81A8-EF9495981DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF99190-5805-4A33-B5C9-9195DC739785}
+	EndGlobalSection
+EndGlobal
