@@ -1,4 +1,5 @@
-﻿using System;
+﻿using InterfaceIComparable.Entities;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
@@ -14,21 +15,21 @@ namespace InterfaceIComparable
             {
                 using (StreamReader sr = File.OpenText(path))
                 {
-                    List<string> peopleList = new List<string>();
+                    List<Employees> employeeList = new List<Employees>();
 
                     //Enquanto não chegar ao final do arquivo, execute.
                     //While not reach the end of the file, run.
                     while (!sr.EndOfStream)
                     {
-                        peopleList.Add(sr.ReadLine());
+                        employeeList.Add(new Employees(sr.ReadLine()));
                     }
 
                     //Ordena a lista em ordem alfabética
                     //Sort the list in alphabetical order
-                    peopleList.Sort();
-                    foreach (var people in peopleList)
+                    employeeList.Sort();
+                    foreach (Employees employee in employeeList)
                     {
-                        Console.WriteLine(people);
+                        Console.WriteLine(employee);
                     }
                 }
             }
