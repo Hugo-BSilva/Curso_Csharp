@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GenerecisA204.Services;
+using System;
 
 namespace GenerecisA204
 {
@@ -6,7 +7,24 @@ namespace GenerecisA204
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int value = 0;            
+            PrintService printService = new PrintService();
+
+            Console.Write("How many values? ");
+            int manyValues = int.Parse(Console.ReadLine());            
+
+            for (int i = 0; i < manyValues; i++)
+            {
+                value = int.Parse(Console.ReadLine());
+                printService.AddValue(value);
+            }
+
+            int first = printService.First();
+            printService.Print();
+
+            Console.WriteLine();
+            Console.WriteLine("First: " + first.ToString());
+
         }
     }
 }
