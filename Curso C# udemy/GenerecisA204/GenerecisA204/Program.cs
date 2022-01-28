@@ -7,19 +7,19 @@ namespace GenerecisA204
     {
         static void Main(string[] args)
         {
-            int value = 0;            
-            PrintService printService = new PrintService();
+            //Preciso informar o tipo da classe, já que ela é genérica
+            PrintService<string> printService = new PrintService<string>();
 
             Console.Write("How many values? ");
             int manyValues = int.Parse(Console.ReadLine());            
 
             for (int i = 0; i < manyValues; i++)
             {
-                value = int.Parse(Console.ReadLine());
-                printService.AddValue(value);
+                string x = Console.ReadLine();
+                printService.AddValue(x);
             }
 
-            int first = printService.First();
+            string first = printService.First();
             printService.Print();
 
             Console.WriteLine();
