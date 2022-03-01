@@ -19,7 +19,10 @@ namespace HashSetSortedSetA210
 
             Product prod = new Product("Notebook", 1200.00);
             //Sem a implementação do método = FALSE
-            Console.WriteLine(a.Contains(prod)); 
+            Console.WriteLine(a.Contains(prod));
+
+            Point p = new Point(5, 10);
+            Console.WriteLine(b.Contains(p));
         }
     }
 }

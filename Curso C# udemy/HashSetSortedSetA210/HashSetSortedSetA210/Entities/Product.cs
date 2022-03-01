@@ -20,6 +20,7 @@ namespace HashSetSortedSetA210.Entities
         /// <summary>
         /// O método deve ser implementado para que a comparação do HashSet aconteça da forma correta
         /// (fazendo a verificação pelo código do objeto, não pelo endereço do mesmo)
+        /// Se o tipo do objeto for struct como no caso do point, não precisa fazer a implementação dos métodos abaixo
         /// </summary>
         /// <returns></returns>
         public override int GetHashCode()
